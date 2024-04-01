@@ -1,6 +1,6 @@
-## Robofriends
+# Robofriends
 
-# simple react app
+## simple react app
 
 Tutorial for React To run the project:
 
